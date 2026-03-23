@@ -5,6 +5,15 @@
 
 3D campus digital twin MVP with live classroom simulation, prediction, and reservation + payment mock.
 
+## Real-Time Simulation Model
+
+- Simulation tick every 1 second
+- Random occupancy increase/decrease per room
+- Movement flow between non-reserved rooms
+- Room history array capped to last 5 values
+- Risk prediction based on trend extrapolation
+- Reserved rooms become full and are excluded from simulation changes
+
 ## Run Backend
 
 ```bash
