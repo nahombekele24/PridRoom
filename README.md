@@ -45,4 +45,4 @@ Frontend runs on `http://localhost:5173`.
 - Simulation ticks every second.
 - Prediction risk is computed from recent trend and highlighted in UI.
 - Reserved rooms turn blue, become full, and stop simulation updates.
->>>>>>> 85a6113 (Build CampusPulse 3D MVP with realtime simulation and payment mock)
+
