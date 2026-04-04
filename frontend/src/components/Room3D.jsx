@@ -18,7 +18,7 @@ function StudentDots({ room }) {
         <meshStandardMaterial color="#0f172a" />
       </mesh>
     );
-  });
+  }); 
 }
 
 export default function Room3D({ room, position }) {
