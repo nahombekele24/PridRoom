@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # PridRoom
-=======
+
 # CampusPulse 3D
 
 3D campus digital twin MVP with live classroom simulation, prediction, and reservation + payment mock.
