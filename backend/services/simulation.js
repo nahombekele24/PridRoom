@@ -69,7 +69,6 @@ function triggerLectureEvent(rooms, roomId) {
     pushHistory(room);
     updateRisk(room);
   }
-
   return selected;
 }
 
