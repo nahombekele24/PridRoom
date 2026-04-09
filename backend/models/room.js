@@ -6,7 +6,7 @@ function createRooms() {
 
     return {
       id,
-      name: `Room ${index + 1}`,
+      name: `Room ${index + 1}`, 
       capacity,
       occupancy,
       reserved: false,
