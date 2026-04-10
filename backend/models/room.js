@@ -15,5 +15,4 @@ function createRooms() {
     };
   });
 }
-
 module.exports = { createRooms };
