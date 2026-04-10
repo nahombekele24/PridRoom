@@ -4,7 +4,7 @@ import Room3D from "./Room3D";
 
 export default function Campus3D({ rooms }) {
   const cols = 4;
-
+ 
   return (
     <div className="canvas-wrap">
       <Canvas camera={{ position: [0, 7, 10], fov: 50 }}>
